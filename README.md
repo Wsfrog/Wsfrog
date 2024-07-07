@@ -50,7 +50,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Wsfrog/Wsfrog/output/snake.svg" alt="Snake animation" />
+
 
 
 
