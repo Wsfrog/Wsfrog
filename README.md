@@ -6,7 +6,7 @@
 
 
 
-<p align="left">- Java developer<br>- I am a 3rd semester student of Systems Analysis and Development</p>
+<p align="left">- Java developer<br>- I am a 4rd semester student of Systems Analysis and Development</p>
 
 
 
