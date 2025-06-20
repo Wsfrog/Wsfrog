@@ -16,8 +16,9 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGttOTd5bHFzYnNiamNreDlrbWNyZno1bmhkeHBuY2I0bWp3bDE2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55wYsRUtXgvU5Jcndf/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200" alt="Totoro waving" />
 </div>
+
 
 
 
