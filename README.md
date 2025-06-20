@@ -16,7 +16,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200" alt="Totoro waving" />
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200" alt="Goku Super Saiyajin" />
 </div>
 
 
