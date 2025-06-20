@@ -1,5 +1,5 @@
 <h2 align="left" style="font-family: 'Courier New', monospace; color: #00FF00;">
-  👾 Welcome to my Hacker Space
+  👾 Welcome to my Github
 </h2>
 
 <h2 align="left" style="font-family: 'Courier New', monospace; color: #00FF00;">
@@ -19,11 +19,11 @@
   <img width="8" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/kali-linux/557C94" height="30" alt="kali linux logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" height="30" alt="kali linux logo" />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/D24726" height="30" alt="sql server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="sql server logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="8" />
@@ -82,16 +82,16 @@
 </h2>
 <div align="left">
   <a href="https://instagram.com/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=00FF00&logoColor=black&style=for-the-badge" height="35" alt="instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="35" style="filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(310deg) brightness(90%) contrast(90%);" alt="instagram" />
   </a>
   <a href="https://twitch.tv/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=00FF00&logoColor=black&style=for-the-badge" height="35" alt="twitch" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg" height="35" style="filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(260deg) brightness(90%) contrast(90%);" alt="twitch" />
   </a>
   <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=00FF00&logoColor=black&style=for-the-badge" height="35" alt="gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" style="filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(0deg) brightness(90%) contrast(90%);" alt="gmail" />
   </a>
   <a href="https://linkedin.com/in/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=00FF00&logoColor=black&style=for-the-badge" height="35" alt="linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" style="filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(190deg) brightness(90%) contrast(90%);" alt="linkedin" />
   </a>
 </div>
 
