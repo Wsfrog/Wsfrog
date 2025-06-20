@@ -31,28 +31,29 @@
 <h2 align="left">My Techs</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" style="margin:0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" style="margin:0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg" height="30" alt="MySQL" style="margin:0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" style="margin:0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" style="margin:0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" style="margin:0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&show_icons=true&theme=dracula" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wsfrog&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages"/>
 </div>
 
 <details align="center" style="margin-top:20px;">
   <summary><b>More Info</b></summary>
-  <div align="center" style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="Stats"/>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&show_icons=true&theme=dracula" height="150" alt="Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wsfrog&layout=compact&langs_count=5&theme=dracula" height="150" alt="Languages"/>
   </div>
-  <div align="center" style="display:inline-block;">
+  <div align="center" style="display:inline-block; margin-top:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
@@ -68,7 +69,7 @@
 
 <div align="center">
   <samp><b>Contact me:</b></samp><br/><br/>
-  <a href="mailto:wesley.oliveira@email.com" target="_blank">
+  <a href="mailto:wesley.oliveira@email.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/seu_usuario" target="_blank">
