@@ -100,7 +100,7 @@
       <samp>
         ♡ <a href="https://rentry.co/seu_link">rentry</a> ⊹
         <a href="https://linktr.ee/seu_usuario">linktr.ee</a> ⊹
-        <a href="https://seusite.carrd.co/">carrd.co</a> ⊹
+        <a href="https://seusite.carrd.co/"></a> ⊹
         <a href="https://seunotion.notion.site/">notion</a> ♡
       </samp>
     </p>
