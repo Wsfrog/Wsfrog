@@ -20,7 +20,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Goku gif" />
+  <img src="https://media.giphy.com/media/55wYsRUtXgvU5Jcndf/giphy.gif" width="200" alt="Akira gif" />
 </div>
 
 <div align="center">
@@ -50,14 +50,14 @@
   </div>
 
   <div align="center" style="display: inline_block"><br>
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
   </div>
 
   <br>
@@ -68,11 +68,25 @@
     <samp><b>Contact me:</b></samp>
     <br><br>
 
-    [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:wesley.oliveira@email.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/seu_usuario)
-    [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/seu_link)
-    [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/seu_numero)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-perfil)
+    <a href="mailto:wesley.oliveira@email.com">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/seu_usuario" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/seu_link" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" alt="Discord" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://wa.me/seu_numero" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" alt="WhatsApp" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+    </a>
   </div>
 
   <div align="center">
