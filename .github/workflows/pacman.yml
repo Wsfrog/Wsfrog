@@ -2,8 +2,8 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Roda a cada 12 horas
+  workflow_dispatch:         # Permite rodar manualmente pela aba Actions
 
 jobs:
   generate:
