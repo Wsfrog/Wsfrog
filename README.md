@@ -13,13 +13,12 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWesleyOliveira&s=21&c=6fa3fa&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWsfrog&s=21&c=6fa3fa&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p> 
 </div>
-      
-<br>
-<br>
-      
+
+<br><br>
+
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Goku gif" />
 </div>
@@ -38,46 +37,27 @@
   <summary>
     <samp><b>More Info</b></samp>
   </summary>
-  
+
   <br>
 
   <div align="center">
-    <img
-      height=165
-      align="center"
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=WesleyOliveira&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
-    />
-    <img
-      height=165
-      align="center"
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyOliveira&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wsfrog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
     <br><br>
-    <img
-      align="center"
-      alt="Profile Details"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyOliveira&theme=tokyonight"
-    />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wsfrog&theme=dracula" alt="profile summary" />
     <br><br>
-    <img
-      height=154
-      align="center"
-      alt="Streak Stats"
-      src="https://github-readme-streak-stats.herokuapp.com?user=WesleyOliveira&theme=tokyonight&card_width=885"
-    />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wsfrog&theme=dracula&card_width=885" height="154" alt="streak stats" />
   </div>
 
   <div align="center" style="display: inline_block"><br>
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GitHub.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub.svg" />
   </div>
 
   <br>
@@ -100,7 +80,7 @@
       <samp>
         ♡ <a href="https://rentry.co/seu_link">rentry</a> ⊹
         <a href="https://linktr.ee/seu_usuario">linktr.ee</a> ⊹
-        <a href="https://seusite.carrd.co/"></a> ⊹
+        <a href="https://seusite.carrd.co/">carrd</a> ⊹
         <a href="https://seunotion.notion.site/">notion</a> ♡
       </samp>
     </p>
@@ -109,7 +89,6 @@
   ##
 </details>
 
-<br>
-<br>
+<br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
