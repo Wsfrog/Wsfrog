@@ -2,12 +2,8 @@
 
 <div align="center">
   <samp>
-    <b>
-      アキラ (Akira)
-    </b>
-    <br>
+    <b>アキラ (Akira)</b><br>
     Hi there! I'm Wesley Oliveira
-    <br>
   </samp>
 </div>
 
@@ -41,12 +37,12 @@
   <br>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wsfrog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wsfrog&layout=compact&langs_count=5&theme=dracula" height="150" />
     <br><br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wsfrog&theme=dracula" alt="profile summary" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wsfrog&theme=dracula" />
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wsfrog&theme=dracula&card_width=885" height="154" alt="streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Wsfrog&theme=dracula&card_width=885" height="154" />
   </div>
 
   <div align="center" style="display: inline_block"><br>
@@ -57,29 +53,37 @@
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring.svg" />
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL.svg" />
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
   </div>
 
   <br>
 
   ##
-
   <div align="center">
     <samp><b>Contact me:</b></samp>
     <br><br>
-    [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:wesley.oliveira@email.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/seu_usuario)
-    [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/seu_link)
-    [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/seu_numero)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-perfil)
+    <a href="mailto:wesley.oliveira@email.com">
+      <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" />
+    </a>
+    <a href="https://www.instagram.com/seu_usuario">
+      <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" />
+    </a>
+    <a href="https://discord.gg/seu_link">
+      <img src="https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=discord&logoColor=fff" />
+    </a>
+    <a href="https://wa.me/seu_numero">
+      <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff" />
+    </a>
+    <a href="https://www.linkedin.com/in/seu-perfil">
+      <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" />
+    </a>
   </div>
 
   <div align="center">
     <p align="center">
       <samp>
         ♡ <a href="https://rentry.co/seu_link">rentry</a> ⊹
-        <a href="https://linktr.ee/seu_usuario">linktr.ee</a> ⊹
-        <a href="https://seusite.carrd.co/">carrd</a> ⊹
+        <a href="https://linktr.ee/seu_usuario">linktr.ee</a>
         <a href="https://seunotion.notion.site/">notion</a> ♡
       </samp>
     </p>
@@ -89,5 +93,9 @@
 </details>
 
 <br><br>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGttOTd5bHFzYnNiamNreDlrbWNyZno1bmhkeHBuY2I0bWp3bDE2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55wYsRUtXgvU5Jcndf/giphy.gif" width="100%" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
