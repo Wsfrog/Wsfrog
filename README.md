@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4668590b-a1b7-441e-96d9-b8fdb7e762ce)<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
 <div align="center">
   <samp>
@@ -7,7 +7,17 @@
   </samp>
 </div>
 
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWsfrog&s=21&c=6fa3fa&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p> 
+</div>
 
+<br><br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1oF3tySuAfcVG/giphy.gif" width="200" alt="Naruto smile" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Wesley_Oliveira-black" />
@@ -49,22 +59,23 @@
   <br>
 
   ##
+
   <div align="center">
     <samp><b>Contact me:</b></samp>
     <br><br>
-    <a href="mailto:wesley.oliveira@email.com">
+    <a href="mailto:wesley.oliveira@email.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" />
     </a>
-    <a href="https://www.instagram.com/">
+    <a href="https://www.instagram.com/seu_usuario" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" />
     </a>
-    <a href="https://discord.gg/seu_link">
+    <a href="https://discord.gg/seu_link" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=discord&logoColor=fff" />
     </a>
-    <a href="https://wa.me/seu_numero">
+    <a href="https://wa.me/seu_numero" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff" />
     </a>
-    <a href="https://www.linkedin.com/in/seu-perfil">
+    <a href="https://www.linkedin.com/in/seu-perfil" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" />
     </a>
   </div>
@@ -72,9 +83,10 @@
   <div align="center">
     <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/seu_link">rentry</a> ⊹
-        <a href="https://linktr.ee/seu_usuario">linktr.ee</a>
-        <a href="https://seunotion.notion.site/">notion</a> ♡
+        ♡ <a href="https://rentry.co/seu_link" target="_blank" rel="noopener noreferrer">rentry</a> ⊹
+        <a href="https://linktr.ee/seu_usuario" target="_blank" rel="noopener noreferrer">linktr.ee</a> ⊹
+        <a href="https://seusite.carrd.co/" target="_blank" rel="noopener noreferrer">carrd</a> ⊹
+        <a href="https://seunotion.notion.site/" target="_blank" rel="noopener noreferrer">notion</a> ♡
       </samp>
     </p>
   </div>
@@ -85,7 +97,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGttOTd5bHFzYnNiamNreDlrbWNyZno1bmhkeHBuY2I0bWp3bDE2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55wYsRUtXgvU5Jcndf/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/1oF3tySuAfcVG/giphy.gif" width="100%" alt="Naruto smile" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
