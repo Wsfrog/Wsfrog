@@ -50,13 +50,14 @@
 
   <h2 align="left">🎮 Game: Snake (Jogo da Cobrinha)</h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="150" alt="Snake game gif" />
-</div>
+## 🎮 Game: Snake (Jogo da Cobrinha)
 
-<p align="left">
-  Click <a href="https://wesbos.github.io/snake/" target="_blank">here to play the classic Snake game online!</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="150" alt="Snake game gif" />
 </p>
+
+Click [here to play the classic Snake game online!](https://wesbos.github.io/snake/)
+
 
   
   
