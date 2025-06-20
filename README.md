@@ -7,13 +7,6 @@
   </samp>
 </div>
 
-<div align="center">
-  <img src="https://giphy.com/gifs/pokemon-rain-forest-Ssts7rvD7E01O" width="200" alt="Naruto smile" />
-</div>
-
-
-
-
 
 
 <div align="center">
