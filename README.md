@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+![image](https://github.com/user-attachments/assets/4668590b-a1b7-441e-96d9-b8fdb7e762ce)<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
 <div align="center">
   <samp>
@@ -7,9 +7,7 @@
   </samp>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/1oF3tySuAfcVG/giphy.gif" width="200" alt="Naruto smile" />
-</div>
+ <img src="https://media.giphy.com/media/1oF3tySuAfcVG/giphy.gif
 
 
 
