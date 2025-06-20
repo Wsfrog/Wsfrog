@@ -47,18 +47,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </div>
-
-  <h2 align="left">🎮 Game: Snake (Jogo da Cobrinha)</h2>
-
-## 🎮 Game: Snake (Jogo da Cobrinha)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="150" alt="Snake game gif" />
-</p>
-
-Click [here to play the classic Snake game online!](https://wesbos.github.io/snake/)
-
-
   
   
   
