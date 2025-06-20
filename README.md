@@ -1,3 +1,5 @@
+<!-- === SEU PERFIL === -->
+
 <h2 align="left">👋 Hi there, welcome to my Github profile</h2>
 
 <h2 align="left">About me</h2>
@@ -50,6 +52,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
+<!-- === PACMAN CONTRIBUTION GRAPH (dark/light mode) === -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wsfrog/pacman/output/pacman-contribution-graph-dark.svg">
