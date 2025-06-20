@@ -2,12 +2,8 @@
 
 <div align="center">
   <samp>
-    <b>
-      アキラ (Akira)
-    </b>
-    <br>
+    <b>アキラ (Akira)</b><br>
     Hi there! I'm Wesley Oliveira
-    <br>
   </samp>
 </div>
 
@@ -67,34 +63,30 @@
   <div align="center">
     <samp><b>Contact me:</b></samp>
     <br><br>
-
-    <a href="mailto:wesley.oliveira@email.com">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" />
+    <a href="mailto:wesley.oliveira@email.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://www.instagram.com/seu_usuario" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://discord.gg/seu_link" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://wa.me/seu_numero" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </div>
+
+  <br>
 
   <div align="center">
     <p align="center">
       <samp>
         ♡ <a href="https://rentry.co/seu_link">rentry</a> ⊹
         <a href="https://linktr.ee/seu_usuario">linktr.ee</a> ⊹
-        <a href="https://seusite.carrd.co/">carrd</a> ⊹
         <a href="https://seunotion.notion.site/">notion</a> ♡
       </samp>
     </p>
