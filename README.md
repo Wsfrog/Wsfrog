@@ -49,7 +49,6 @@
   </div>
 
 
-<picture>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wsfrog/Wsfrog/main/pacman/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wsfrog/Wsfrog/main/pacman/pacman-contribution-graph.svg" />
