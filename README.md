@@ -7,17 +7,10 @@
   </samp>
 </div>
 
-[<div align="center">
-  <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWsfrog&s=21&c=6fa3fa&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-  </p> 
-</div>](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
-
-<br><br>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200" alt="Goku Super Saiyajin" />
+  <img src="https://media.giphy.com/media/1oF3tySuAfcVG/giphy.gif" width="200" alt="Naruto smile" />
 </div>
+
 
 
 
