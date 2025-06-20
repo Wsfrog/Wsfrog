@@ -16,8 +16,9 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Goku gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGttOTd5bHFzYnNiamNreDlrbWNyZno1bmhkeHBuY2I0bWp3bDE2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55wYsRUtXgvU5Jcndf/giphy.gif" width="100%" />
 </div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Wesley_Oliveira-black" />
@@ -65,7 +66,7 @@
     <a href="mailto:wesley.oliveira@email.com">
       <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" />
     </a>
-    <a href="https://www.instagram.com/seu_usuario">
+    <a href="https://www.instagram.com/">
       <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" />
     </a>
     <a href="https://discord.gg/seu_link">
