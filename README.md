@@ -1,57 +1,115 @@
-  <h2 align="left">👋 Hi there, welcome to my Github profile</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+
+<div align="center">
+  <samp>
+    <b>
+      アキラ (Akira)
+    </b>
+    <br>
+    Hi there! I'm Wesley Oliveira
+    <br>
+  </samp>
+</div>
+
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FWesleyOliveira&s=21&c=6fa3fa&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Goku gif" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Wesley_Oliveira-black" />
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+4th+semester+student+of+Systems+Analysis+and+Development;I'm+a+Java+Developer;Welcome+to+my+profile!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<details align="center">  
+  <summary>
+    <samp><b>More Info</b></samp>
+  </summary>
   
-  
-  
-  <h2 align="left">About me</h2>
-  
-  
-  
-  <p align="left">- Java developer<br>- I am a 4rd semester student of Systems Analysis and Development</p>
-  
-  
-  
-  <h2 align="left">My Techs</h2>
-  
-  
-  
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  </div>
-  
-  
-  
+  <br>
+
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wsfrog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img
+      height=165
+      align="center"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=WesleyOliveira&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    />
+    <img
+      height=165
+      align="center"
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyOliveira&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    />
+    <br><br>
+    <img
+      align="center"
+      alt="Profile Details"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyOliveira&theme=tokyonight"
+    />
+    <br><br>
+    <img
+      height=154
+      align="center"
+      alt="Streak Stats"
+      src="https://github-readme-streak-stats.herokuapp.com?user=WesleyOliveira&theme=tokyonight&card_width=885"
+    />
   </div>
-  
-  
-  
-  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVmanN3MGZzd3EwZnFyOGRscnpxMDNobHBybmwwdHhpY2o1bXQ0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvoSHlbM2dKeu6eqBb/giphy.webp"  />
-  
-  
-  
-  <div align="left">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  <div align="center" style="display: inline_block"><br>
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GitHub.svg" />
   </div>
-  
-  
-  
-  
-  
-  
-  
-  
+
+  <br>
+
+  ##
+
+  <div align="center">
+    <samp><b>Contact me:</b></samp>
+    <br><br>
+
+    [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:wesley.oliveira@email.com)
+    [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/seu_usuario)
+    [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/seu_link)
+    [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/seu_numero)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-perfil)
+  </div>
+
+  <div align="center">
+    <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/seu_link">rentry</a> ⊹
+        <a href="https://linktr.ee/seu_usuario">linktr.ee</a> ⊹
+        <a href="https://seusite.carrd.co/">carrd.co</a> ⊹
+        <a href="https://seunotion.notion.site/">notion</a> ♡
+      </samp>
+    </p>
+  </div>
+
+  ##
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
