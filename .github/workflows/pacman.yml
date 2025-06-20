@@ -2,11 +2,11 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Roda a cada 12h
+  workflow_dispatch:       # Permite rodar manualmente
   push:
     branches:
-      - main
+      - main               # Roda quando fizer push na main
 
 jobs:
   generate:
@@ -23,15 +23,13 @@ jobs:
         with:
           github_user_name: Wsfrog
 
-      - name: Prepare output folder
-        run: |
-          mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
+      - name: List files to debug
+        run: ls -la
 
-      - name: Publish to output branch
+      - name: Publish to output branch (root dir)
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: . # Publica tudo da raiz (sem precisar mover o SVG)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
