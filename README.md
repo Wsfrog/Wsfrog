@@ -1,34 +1,28 @@
 <div align="center">
   <h2>👋 Hi there, welcome to my Github profile</h2>
-
   <br>
-
   <p>
     <b>Cyber Defense student, enthusiast in Blue Team, Arduino, programming (Python, Java, C#), and Linux. 🐸🛡️</b>
   </p>
-
   <br>
 
   <h3>My Tech Stack</h3>
   
-  <div style="display: inline_block">
+  <div style="display: inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
     <img width="15" />
-    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo" />
     <img width="15" />
-    
     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
     <img width="15" />
-    
     <img src="https://img.shields.io/badge/Security-Blue%20Team-blue?style=for-the-badge&logo=security&logoColor=white" height="45" alt="blue team badge" />
   </div>
 
