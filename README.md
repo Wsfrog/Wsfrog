@@ -1,9 +1,12 @@
 <div align="center">
   <h2>👋 Hi there, welcome to my Github profile</h2>
+
   <br>
+
   <p>
     <b>Cyber Defense student, enthusiast in Blue Team, Arduino, programming (Python, Java, C#), and Linux. 🐸🛡️</b>
   </p>
+
   <br>
 
   <h3>My Tech Stack</h3>
@@ -28,10 +31,11 @@
 
   <br><br>
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Wsfrog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wsfrog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="160" alt="languages graph" />
-  </div>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wsfrog&theme=dracula&hide_border=true" alt="Streak Stats" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wsfrog&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  </p>
 
   <br>
 
